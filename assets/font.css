@@ -1,0 +1,109 @@
+/* BykerTrial */
+@font-face {
+    font-family: 'BykerTrial-Regular';
+    src: url('../assets/font/BykerTrial-Regular-BF6476b31497907.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BykerTrial-Bold';
+    src: url('../assets/font/BykerTrial-Bold-BF6476b3148e7b2.otf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BykerTrial-Light';
+    src: url('../assets/font/BykerTrial-Light-BF6476b314aa535.otf');
+    font-weight: lighter;
+    font-style: normal;
+}
+
+/* Now */
+@font-face {
+    font-family: 'Now-Regular';
+    src: url('../assets/font/Now-Regular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Now-Bold';
+    src: url('../assets/font/Now-Bold.otf');
+    font-weight: Bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Now-Light';
+    src: url('../assets/font/Now-Light.otf');
+    font-weight: lighter;
+    font-style: normal;
+}
+
+/* NowAlt */
+@font-face {
+    font-family: 'NowAlt-Regular';
+    src: url('../assets/font/NowAlt-Regular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NowAlt-Bold';
+    src: url('../assets/font/NowAlt-Bold.otf');
+    font-weight: Bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NowAlt-Light';
+    src: url('../assets/font/NowAlt-Light.otf');
+    font-weight: lighter;
+    font-style: normal;
+}
+
+/* Poppins */
+@font-face {
+    font-family: 'Poppins-Regular';
+    src: url('../assets/font/Poppins-Medium.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-Bold';
+    src: url('../assets/font/Poppins-Bold.ttf');
+    font-weight: Bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-Light';
+    src: url('../assets/font/Poppins-Light.ttf');
+    font-weight: lighter;
+    font-style: normal;
+}
+
+/* Product Sans */
+@font-face {
+    font-family: 'Product Sans Regular';
+    src: url('../assets/font/Product Sans Medium.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Product Sans Bold';
+    src: url('../assets/font/Product Sans Bold.ttf');
+    font-weight: Bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Product Sans Light';
+    src: url('../assets/font/Product Sans Light.ttf');
+    font-weight: lighter;
+    font-style: normal;
+}

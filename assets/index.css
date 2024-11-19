@@ -1,8 +1,52 @@
+@import "font.css";
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Now-Bold';
+}
 
-#hero {
+p {
+    font-family: 'product Sans Regular';
+}
+
+a,
+button {
+    font-family: 'product Sans Bold';
+}
+
+nav {
+    font-family: 'Poppins-Regular';
+}
+
+nav #NavBrand {
+    font-family: 'BykerTrial-Bold';
+}
+
+Header {
     height: 100vh;
     width: 100%;
     background: url('../assets/img/HeroBg.png') no-repeat center center;
     background-size: cover;
+}
+
+header h6 {
+    font-family: 'Now-Regular';
+}
+
+header a {
+    font-family: 'product Sans Bold';
+}
+
+section#FAQJumbotron div {
+    background: rgb(31, 58, 147);
+    background: linear-gradient(145deg, rgba(31, 58, 147, 1) 29%, rgba(9, 18, 45, 1) 67%);
+}
+
+footer {
+    background: rgb(31, 58, 147);
+    background: linear-gradient(90deg, rgba(31, 58, 147, 1) 0%, rgba(19, 36, 91, 1) 32%, rgba(9, 18, 45, 1) 62%);
 }
