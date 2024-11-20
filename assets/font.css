@@ -107,3 +107,21 @@
     font-weight: lighter;
     font-style: normal;
 }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Now-Bold';
+}
+
+p {
+    font-family: 'product Sans Regular';
+}
+
+a,
+button {
+    font-family: 'product Sans Bold';
+}
