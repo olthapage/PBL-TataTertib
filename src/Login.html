@@ -15,19 +15,19 @@
 <body>
     <main class="flex justify-between">
         <img src="../assets/img/FOTO_login.svg" class="h-screen" alt="">
-        <form action="" class="flex flex-col justify-center items-center gap-3 pr-28 w-full">
+        <form action="../backend/login.php" method="post" class="flex flex-col justify-center items-center gap-3 pr-28 w-full">
             <img src="../assets/img/LOGO JTI 1.pdf.png" class="w-24" alt="">
             <h1 class="text-4xl">Welcome Back</h1>
             <p class="px-24 text-center">Silakan login terlebih dahulu untuk mengakses fitur selanjutnya</p>
             <span class="flex w-96 items-center border-2 border-black rounded-xl pl-2">
                 <i class="bi bi-person text-3xl"></i>
-                <input type="text"
+                <input type="text" name = "username"
                     class="px-4 py-2 w-full border-transparent rounded-xl outline-0 placeholder:text-black"
                     placeholder="Your Username">
             </span>
             <span class="flex w-96 items-center border-2 border-black rounded-xl pl-3">
                 <i class="bi bi-lock text-2xl"></i>
-                <input type="password"
+                <input type="password" name = "password"
                     class="px-4 py-2 w-full border-transparent rounded-xl outline-0 placeholder:text-black"
                     placeholder="Your Password">
             </span>
